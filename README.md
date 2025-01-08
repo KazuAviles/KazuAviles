@@ -5,7 +5,7 @@
 <img src="Banner Data Scientist.jpg" width="1584px" height=""396px alt="no hay imagen">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katherinezuniga-datascientist/) 
-[![GitHub followers](https://img.shields.io/github/followers/142178KZ?style=social)](https://github.com/KazuAviles)
+[![GitHub followers](https://img.shields.io/github/followers/KazuAviles?style=social)](https://github.com/KazuAviles)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1421k4zu_)
 [![](https://visitcount.itsvg.in/api?id=142178KZ&icon=0&color=0)](https://visitcount.itsvg.in)
 
