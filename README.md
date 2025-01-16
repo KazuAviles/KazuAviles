@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy <a href="https://KatherineZúñiga">Katherine. </a> ¡Encantada de conocerte!</a> 👋</h1>
   Data Scientist | Machine Learning | Python | R | SQL | Big Data | Hadoop | Análisis de Datos | Estadística | Ingeniería Informática
 </div>
-<img src="Banner Data Scientist.jpg" width="1584px" height=""396px alt="no hay imagen">
+<img src="Banner Data Scientist_02.jpg" width="1584px" height=""396px alt="no hay imagen">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/katherinezuniga-datascientist/) 
 [![GitHub followers](https://img.shields.io/github/followers/KazuAviles?style=social)](https://github.com/KazuAviles)
